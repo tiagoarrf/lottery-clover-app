@@ -1,6 +1,5 @@
-# Lottery_Clover_App
+# Lottery Clover App
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=71460-4-F&repo=Lottery_Clover_App&countColor=orange)
 
 Demo (screenshots):
 
